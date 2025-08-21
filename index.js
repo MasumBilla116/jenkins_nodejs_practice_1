@@ -1,1 +1,1 @@
-console.log("Welcome to nodejs and jenkins project 
+console.log("Welcome to nodejs and jenkins project");
